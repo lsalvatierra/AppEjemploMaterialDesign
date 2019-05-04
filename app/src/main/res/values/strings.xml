@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppEjemploMaterialDesign</string>
+    <string name="valEtUsuario">Ingrese su usuario</string>
+    <string name="valEtPassword">Ingrese su password</string>
+    <string name="valBtnLogin">Ingresar</string>
+    <string name="valopconfig">Configuración</string>
+    <string name="valopbuscar">Buscar</string>
+</resources>
